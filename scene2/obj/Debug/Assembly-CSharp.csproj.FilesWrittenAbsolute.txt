@@ -1,0 +1,40 @@
+/Users/wangjingtao/Documents/CS 188 3D/New Unity Project/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/wangjingtao/Documents/CS 188 3D/New Unity Project/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/wangjingtao/Documents/CS 188 3D/New Unity Project/obj/Debug/Assembly-CSharp.dll
+/Users/wangjingtao/Documents/CS 188 3D/New Unity Project/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/wangjingtao/Documents/CS 188 3D/New Unity Project/Temp/bin/Debug/UnityEngine.dll
+/Users/wangjingtao/Documents/CS 188 3D/New Unity Project/Temp/bin/Debug/UnityEditor.dll
+/Users/wangjingtao/Documents/CS 188 3D/New Unity Project/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/wangjingtao/Documents/CS 188 3D/New Unity Project/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/wangjingtao/Documents/CS 188 3D/New Unity Project/Temp/bin/Debug/Assembly-CSharp-firstpass.dll
+/Users/wangjingtao/Documents/CS 188 3D/New Unity Project/Temp/bin/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/wangjingtao/Documents/CS 188 3D/New Unity Project/Temp/bin/Debug/Mono.Cecil.dll
+/Users/wangjingtao/Documents/CS 188 3D/New Unity Project/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/wangjingtao/Documents/CS 188 3D/New Unity Project/Temp/bin/Debug/Unity.DataContract.dll
+/Users/wangjingtao/Documents/CS 188 3D/New Unity Project/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/wangjingtao/Documents/CS 188 3D/New Unity Project/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/wangjingtao/Documents/CS 188 3D/New Unity Project/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/wangjingtao/Documents/CS 188 3D/New Unity Project/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/wangjingtao/Documents/CS 188 3D/New Unity Project/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/wangjingtao/Documents/CS 188 3D/New Unity Project/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/wangjingtao/Documents/CS 188 3D/scene2/obj/Debug/Assembly-CSharp.dll
+/Users/wangjingtao/Documents/CS 188 3D/scene2/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/wangjingtao/Documents/CS 188 3D/scene2/Temp/bin/Debug/UnityEngine.dll
+/Users/wangjingtao/Documents/CS 188 3D/scene2/Temp/bin/Debug/UnityEditor.dll
+/Users/wangjingtao/Documents/CS 188 3D/scene2/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/wangjingtao/Documents/CS 188 3D/scene2/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/wangjingtao/Documents/CS 188 3D/scene2/Temp/bin/Debug/Assembly-CSharp-firstpass.dll
+/Users/wangjingtao/Documents/CS 188 3D/scene2/Temp/bin/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/wangjingtao/Documents/CS 188 3D/scene2/Temp/bin/Debug/Mono.Cecil.dll
+/Users/wangjingtao/Documents/CS 188 3D/scene2/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/wangjingtao/Documents/CS 188 3D/scene2/Temp/bin/Debug/Unity.DataContract.dll
+/Users/wangjingtao/Documents/CS 188 3D/scene2/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/wangjingtao/Documents/CS 188 3D/scene2/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/wangjingtao/Documents/CS 188 3D/scene2/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/wangjingtao/Documents/CS 188 3D/scene2/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/wangjingtao/Documents/CS 188 3D/scene2/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/wangjingtao/Documents/CS 188 3D/scene2/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/wangjingtao/Documents/CS 188 3D/scene2/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/wangjingtao/Documents/CS 188 3D/scene2/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/wangjingtao/Documents/CS 188 3D/scene2/Temp/bin/Debug/RAIN.dll
+/Users/wangjingtao/Documents/CS 188 3D/scene2/Temp/bin/Debug/RAINMetaform.dll
